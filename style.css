@@ -1,0 +1,30 @@
+#articles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px -10px;
+}
+body{
+    background-color: #777799;
+}
+#first{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 700px;
+}
+#tot{
+    font-size: xx-large;
+}
+.colred{
+    color: red;
+}
+.art{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #779999;
+    border-radius: 10%;
+}
+
